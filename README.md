@@ -33,4 +33,4 @@ Output: "price=$100"
 ```
 
 ## License
-MIT © [Your Name]
+MIT License - See LICENSE for details.
